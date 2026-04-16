@@ -1,4 +1,4 @@
-# 🎓 UniScheduler Pro — Zero Dependency Edition
+# UniScheduler Pro — Zero Dependency Edition
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Swing/AWT-blue?style=for-the-badge)
@@ -16,7 +16,7 @@ It completely eliminates external database dependencies by storing states secure
 - ** Zero Setup Data Persistence:** No SQL or JDBC required! Data naturally persists between runs gracefully using Java's built-in serialization. It's fully seeded out of the box.
 - ** Modular Architecture:** Cleanly organized into a 3-tier architecture to simulate collaborative development.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Run in VS Code (Recommended)
 Clone the repository and open the folder in VS Code:
